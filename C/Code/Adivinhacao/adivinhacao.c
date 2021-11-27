@@ -13,7 +13,7 @@ short main() {
   short correct;
 
   int secnum = rand() % 100;
-  int tentativas = 1;
+  short tentativas = 1;
   short tentativanum;
 
   short lvl;
